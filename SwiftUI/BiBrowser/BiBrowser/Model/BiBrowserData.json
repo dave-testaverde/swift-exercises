@@ -1,0 +1,62 @@
+[
+    {
+        "type": "incollection",
+        "author": "Tabacchi Marco Elio",
+        "journal": "Computational Intelligence and Mathematics for Tackling Complex Problems 5",
+        "publisher": "Springer Nature Switzerland",
+        "title": "A Fuzzy Clinical Diagnostic Support System for Coeliac Disease",
+        "volume": "1127",
+        "year": 2024,
+        "file": "1.pdf",
+        "preview": "1",
+        "id": 1
+    },
+    {
+        "type": "article",
+        "author": "Tabacchi Marco Elio and Termini Settimo and Trillas Enric",
+        "journal": "Transactions on Fuzzy Sets and Systems",
+        "publisher": "",
+        "title": "On the Inferential Zigzag and Its Activation Towards Clarifying What It Is Commonsense Reasoning",
+        "volume": "2-4",
+        "year": 2023,
+        "file": "2.pdf",
+        "preview": "2",
+        "id": 2
+    },
+    {
+        "type": "book",
+        "author": "Tabacchi Marco Elio",
+        "journal": "",
+        "publisher": "UniPa Press",
+        "title": "Focusing Fuzzy Logic",
+        "volume": "6",
+        "year": 2021,
+        "file": "3.pdf",
+        "preview": "3",
+        "id": 3
+    },
+    {
+        "type": "article",
+        "author": "Tabacchi Marco Elio",
+        "journal": "Archives for Soft Computing",
+        "publisher": "UniPa Press",
+        "title": "Logic and Computational Aspects of Computing with Speculations",
+        "volume": "1-2",
+        "year": 2020,
+        "file": "4.pdf",
+        "preview": "4",
+        "id": 4
+    },
+    {
+        "type": "article",
+        "author": "Tabacchi Marco Elio",
+        "journal": "Archives for Soft Computing",
+        "publisher": "UniPa Press",
+        "title": "Logics for Cognitive Sciences",
+        "volume": "2-1",
+        "year": 2019,
+        "file": "5.pdf",
+        "preview": "5",
+        "id": 5
+    }
+]
